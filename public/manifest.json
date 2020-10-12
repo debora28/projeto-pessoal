@@ -1,0 +1,13 @@
+{
+    "name": "Site Debora", 
+    "short_name": "SD",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "./",
+    "icons": [{
+        "src": "assets/deb.png",
+        "size": "356x356",
+        "type": "image/png"
+    }]
+}
