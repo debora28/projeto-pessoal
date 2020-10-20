@@ -9,11 +9,5 @@
         "src": "public/assets/logo-h.png",
         "size": "45x40",
         "type": "image/png"
-    }],
-    "person" : [{
-        "nome" : "Débora",
-        "sobrenome" : "Caldas",
-        "cidade" : "Recife-PE",
-        "curso" : "Programação Web"
     }]
 }
